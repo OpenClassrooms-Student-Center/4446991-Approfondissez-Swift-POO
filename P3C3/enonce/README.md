@@ -1,6 +1,6 @@
 # Instructions
 
-Dans cet exercice, vous allez surchargez la méthode `presentYourself` de la classe `Student` :
+Dans cet exercice, vous allez surcharger la méthode `presentYourself` de la classe `Student` :
 
 - Dans la classe `Developper`, vous allez compléter la méthode en rajoutant le message : " et je suis développeur !" à la fin.
 
